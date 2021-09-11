@@ -10,9 +10,5 @@
   "license": "ISC",
   "dependencies": {
     "bible-book-data": "git+https://github.com/eddy-lau/bible-book-data"
-  },
-  "devDependencies": {
-    "cunp-usfm": "file:../cunp-usfm",
-    "rcuv-usfm": "file:../rcuv-usfm"
   }
 }
